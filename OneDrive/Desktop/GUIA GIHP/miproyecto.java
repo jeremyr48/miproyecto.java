@@ -10,6 +10,9 @@ public class miproyecto {
         System.out.println("Hola " + nombre);
         System.out.println("La multiplicacion de " + a + " y " + b + " es: " + multiplicacion);
 
+        System.out.println("Jeremy Armando Rodriguez Quintero");
+        System.out.println("2025-1807U");
+
 
 
        
