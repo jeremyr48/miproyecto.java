@@ -2,8 +2,8 @@ public class miproyecto {
     public static void main(String[]args){
         String nombre = "estudiante";
          
-        int a = 20;
-        int b = 5;
+        int a = 30;
+        int b = 10;
 
         int suma = a  + b;
 
